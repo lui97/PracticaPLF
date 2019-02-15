@@ -1,0 +1,16 @@
+﻿  Holamundo.cpp
+c:\users\nah be\source\repos\holamundo\holamundo\holamundo.cpp(15): warning C4474: "printf": se pasaron demasiados argumentos para la cadena de formato
+  c:\users\nah be\source\repos\holamundo\holamundo\holamundo.cpp(15): note: los marcadores de posición y sus parámetros esperan 0 argumentos variádicos, pero se proporcionaron 1
+c:\users\nah be\source\repos\holamundo\holamundo\holamundo.cpp(16): warning C4474: "printf": se pasaron demasiados argumentos para la cadena de formato
+  c:\users\nah be\source\repos\holamundo\holamundo\holamundo.cpp(16): note: los marcadores de posición y sus parámetros esperan 0 argumentos variádicos, pero se proporcionaron 1
+c:\users\nah be\source\repos\holamundo\holamundo\holamundo.cpp(17): warning C4474: "printf": se pasaron demasiados argumentos para la cadena de formato
+  c:\users\nah be\source\repos\holamundo\holamundo\holamundo.cpp(17): note: los marcadores de posición y sus parámetros esperan 0 argumentos variádicos, pero se proporcionaron 1
+c:\users\nah be\source\repos\holamundo\holamundo\holamundo.cpp(18): warning C4474: "printf": se pasaron demasiados argumentos para la cadena de formato
+  c:\users\nah be\source\repos\holamundo\holamundo\holamundo.cpp(18): note: los marcadores de posición y sus parámetros esperan 0 argumentos variádicos, pero se proporcionaron 1
+c:\users\nah be\source\repos\holamundo\holamundo\holamundo.cpp(24): warning C4474: "printf": se pasaron demasiados argumentos para la cadena de formato
+  c:\users\nah be\source\repos\holamundo\holamundo\holamundo.cpp(24): note: los marcadores de posición y sus parámetros esperan 0 argumentos variádicos, pero se proporcionaron 1
+c:\users\nah be\source\repos\holamundo\holamundo\holamundo.cpp(26): warning C4473: "scanf_s": no se pasaron suficientes argumentos para la cadena de formato
+  c:\users\nah be\source\repos\holamundo\holamundo\holamundo.cpp(26): note: los marcadores de posición y sus parámetros esperan 2 argumentos variádicos, pero se proporcionaron 1
+  c:\users\nah be\source\repos\holamundo\holamundo\holamundo.cpp(26): note: el argumento variádico 2 que falta es requerido por la cadena de formato '%c'
+  c:\users\nah be\source\repos\holamundo\holamundo\holamundo.cpp(26): note: este argumento se utiliza como un tamaño de búfer
+  Holamundo.vcxproj -> C:\Users\Nah Be\source\repos\Holamundo\Debug\Holamundo.exe
